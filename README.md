@@ -1,6 +1,6 @@
-## 👋 Привет! Я Екатерина — backend-разработчик, специализируюсь на Go
+## 👋 Привет! Я Екатерина — backend-разработчик Go
 
-🎓 Учусь в **Школе 21**
+🎓 Учусь в **Школе 21**  
 📍 Проживаю в Челябинске, Россия  
 💬 Telegram: [@lenore74](https://t.me/lenore74) | Email: [ezueva74@bk.ru](mailto:ezueva74@bk.ru)
 
@@ -17,13 +17,9 @@
 - **[Brick Game](https://github.com/tambrama/Brick_Game)** — «Тетрис» и «Змейка» на C++ с поддержкой терминального (ncurses) и графического (Qt) интерфейсов
 - **[3D Viewer](https://github.com/tambrama/3D_Viewer)** — визуализатор каркасных моделей с загрузкой OBJ и 3D-трансформациями (C++/Qt)
 
-### 🏃‍♀️ Вне кода
-Бегаю на городских забегах. Убеждена, что чистый код — как хороший бег: ровный, осознанный и устойчивый на дистанции.
 ---
 
-
-
-## 👋 Hi, I'm Ekaterina — backend developer focused on **Go**
+## 👋 Hi, I'm Ekaterina — backend developer **Go**
 
 🎓 Studying at **School 21**  
 📍 Based in Chelyabinsk, Russia  
@@ -41,6 +37,3 @@
 - **[RogueGo](https://github.com/tambrama/roguego)** — Console roguelike with dungeon gen, inventory, JSON save  
 - **[Brick Game](https://github.com/tambrama/Brick_Game)** — Tetris & Snake in C++ (Qt + ncurses)  
 - **[3D Viewer](https://github.com/tambrama/3D_Viewer)** — OBJ loader & 3D transformations (C++/Qt)
-
-### 🏃‍♀️ Outside coding
-I run city marathons and believe clean code is like good pacing — steady, intentional, and sustainable.
