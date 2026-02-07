@@ -12,6 +12,7 @@
 - **Прочее**: Qt, ncurses, goncurses, Agile-методологии
 
 ### 🚀 Ключевые проекты
+- **[ShopAPI](https://github.com/tambrama/hardware_store)** — RESTful API для интернет-магазина бытовой техники
 - **[TicTacGo](https://github.com/tambrama/tic_tuc_toe_web)** — сервер пошаговой игры «Крестики-нолики» (PvP/PvE) с авторизацией, ИИ на основе минимакса и хранением данных в PostgreSQL
 - **[RogueGo](https://github.com/tambrama/roguego)** — консольная roguelike-игра с генерацией подземелий, инвентарём и сохранением в JSON
 - **[Brick Game](https://github.com/tambrama/Brick_Game)** — «Тетрис» и «Змейка» на C++ с поддержкой терминального (ncurses) и графического (Qt) интерфейсов
