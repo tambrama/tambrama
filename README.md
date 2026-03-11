@@ -6,13 +6,14 @@
 
 ### 🔧 Технологический стек
 - **Языки**: Go, C, C++
-- **Backend**: REST API, PostgreSQL
+- **Backend**: REST API, gRPC, http, PostgreSQL
 - **Инструменты**: Git, Docker, Linux, Make, JIRA
-- **Тестирование**: модульные и интеграционные тесты
+- **Тестирование**: интеграционные тесты
 - **Прочее**: Qt, ncurses, goncurses, Agile-методологии
 
 ### 🚀 Ключевые проекты
-- **[ShopAPI](https://github.com/tambrama/hardware_store)** — RESTful API для интернет-магазина бытовой техники
+- **[ShopAPI](https://github.com/tambrama/hardware_store)** — RESTful API для интернет-магазина бытовой техники с подключенным через gRPC сервсимо авторизации.
+- **[Text Analyzer](https://github.com/tambrama/text_analyzer)** — микросервис для анализа текста.
 - **[TicTacGo](https://github.com/tambrama/tic_tuc_toe_web)** — сервер пошаговой игры «Крестики-нолики» (PvP/PvE) с авторизацией, ИИ на основе минимакса и хранением данных в PostgreSQL
 - **[RogueGo](https://github.com/tambrama/roguego)** — консольная roguelike-игра с генерацией подземелий, инвентарём и сохранением в JSON
 - **[Brick Game](https://github.com/tambrama/Brick_Game)** — «Тетрис» и «Змейка» на C++ с поддержкой терминального (ncurses) и графического (Qt) интерфейсов
